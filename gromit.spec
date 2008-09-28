@@ -5,9 +5,9 @@ Summary:	Gromit - GRaphics Over MIscellaneous Things
 Summary(pl.UTF-8):	Gromit - narzędzie do rysowania po ekranie
 Name:		gromit
 Version:	20041213
-Release:	0.1
+Release:	1
 License:	GPL v2
-Group:		Applications
+Group:		X11/Applications/Graphics
 Source0:	http://www.home.unix-ag.org/simon/gromit/%{name}-%{version}.tar.gz
 # Source0-md5:	86fd67cfe62b1b955ddcd821e14a8c14
 Source1:	%{name}.desktop
