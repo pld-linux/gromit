@@ -13,7 +13,7 @@ Source0:	http://www.home.unix-ag.org/simon/gromit/%{name}-%{version}.tar.gz
 Source1:	%{name}.desktop
 URL:		http://www.home.unix-ag.org/simon/gromit/
 BuildRequires:	gtk+2-devel
-%{?with_desktop:Requires	daemon}
+%{?with_desktop:Requires:	daemon}
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
