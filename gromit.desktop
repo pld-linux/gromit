@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Gromit
+Comment=GRaphics Over MIscelaneous Things
+Comment[pl]=Program do rysowania bezpośrednio po ekranie
+Icon=
+Exec=/usr/sbin/daemon gromit
+Terminal=false
+Type=Application
+Categories=GTK;Graphics;Utility;
+# vi: encoding=utf-8
