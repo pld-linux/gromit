@@ -9,6 +9,7 @@ Group:		Applications
 Source0:	http://www.home.unix-ag.org/simon/gromit/%{name}-%{version}.tar.gz
 # Source0-md5:	86fd67cfe62b1b955ddcd821e14a8c14
 URL:		http://www.home.unix-ag.org/simon/gromit/
+BuildRequires:	gtk+2-devel
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
